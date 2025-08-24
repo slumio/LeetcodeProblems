@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [3954-maximum-balanced-shipments](https://github.com/slumio/LeetcodeProblems/tree/master/3954-maximum-balanced-shipments) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/slumio/LeetcodeProblems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/slumio/LeetcodeProblems/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sliding Window
@@ -24,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/slumio/LeetcodeProblems/tree/master/3974-xor-after-range-multiplication-queries-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-maximum-balanced-shipments](https://github.com/slumio/LeetcodeProblems/tree/master/3954-maximum-balanced-shipments) |
+## Stack
+|  |
+| ------- |
+| [3954-maximum-balanced-shipments](https://github.com/slumio/LeetcodeProblems/tree/master/3954-maximum-balanced-shipments) |
+## Greedy
+|  |
+| ------- |
+| [3954-maximum-balanced-shipments](https://github.com/slumio/LeetcodeProblems/tree/master/3954-maximum-balanced-shipments) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3954-maximum-balanced-shipments](https://github.com/slumio/LeetcodeProblems/tree/master/3954-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->
