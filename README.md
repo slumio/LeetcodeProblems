@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/slumio/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/slumio/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/slumio/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/slumio/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/slumio/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/slumio/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/slumio/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/slumio/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,8 +116,17 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/slumio/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/slumio/LeetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/slumio/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/slumio/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/slumio/LeetcodeProblems/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/slumio/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/slumio/LeetcodeProblems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
